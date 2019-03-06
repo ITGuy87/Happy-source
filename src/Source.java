@@ -5,6 +5,7 @@ public class Source {
 		System.out.println("잘하고 싶은 JAVA");
 		System.out.println("왜 저장이 안될까?");
 		System.out.println("어려운 자바");
+		System.out.println("프로젝트가 저장이 안된다");
 	
 	}
 
